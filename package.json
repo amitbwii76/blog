@@ -1,0 +1,30 @@
+{
+  "name": "serge_website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "axios": "^0.27.2",
+    "html-react-parser": "^2.0.0",
+    "jquery": "^3.6.1",
+    "moment": "^2.29.4",
+    "next": "12.2.0",
+    "next-base64": "^1.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-player": "^2.11.0",
+    "react-router-dom": "^6.3.0",
+    "react-youtube": "^9.0.3",
+    "recharts": "^2.1.16"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.2.0"
+  }
+}
